@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://hiibrarahmad.tumblr.com/"><img src="https://img.shields.io/badge/-hiibrarahmad.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hiibrarahmad/"><img src="https://img.shields.io/badge/-hiibrarahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hiibrarahmad@gmail.com"><img src="https://img.shields.io/badge/-hiibrarahmad@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/hiibrarahmad"><img src="https://img.shields.io/badge/-@hiibrar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/hiibrarahmad"><img src="https://img.shields.io/badge/-@hiibrarahmad-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/hiibrarahmad"><img src="https://img.shields.io/badge/-@hiibrarahmad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="(https://in.pinterest.com/hiibrarahmad/)"><img src="https://img.shields.io/badge/-@hiibrarahmad-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/ibrarahmad"><img src="https://img.shields.io/badge/-@hiibrarahmad-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
