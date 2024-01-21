@@ -1,8 +1,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 👋 Hi, I’m @hiibrarahmad
 - 👀 I’m interested in softwere and hardware of computer and microcontroller
-- 🌱 I’m currently learning C langauge On AVR studio for arduno and matlab 
-- 💞️ I’m looking to collaborate on C and assembly language on AVR STUDIO for atmega 328p and matlab
+- 🌱 I’m currently working on C langauge On AVR studio for arduno and matlab and stm32 cubic for stm32.
+- 💞️ I’m looking to collaborate on C and assembly language on stm cubic ide for stm32 and matlab 
 - 📫 How to reach me hiibrarahmad@gmail.com
 - 🌐 VISIT me https://mendupmindcode.blogspot.com/
 - 🎞️ SUBSCRIBE me https://www.youtube.com/channel/UCV706NGK4bYrhMHQChhpE-g
