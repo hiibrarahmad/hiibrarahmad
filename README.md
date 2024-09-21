@@ -1,11 +1,11 @@
-![Profile views](https://komarev.com/ghpvc/?username=hiibrarahmad&label=Profile%20views&color=0e75b6&style=flat)
-<div style="text-align: right;">
-    <img src="https://komarev.com/ghpvc/?username=hiibrarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=hiibrarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=6000&lines=its+ibrar+ahmad!+👋;+Embedded+Engineer+(PCB+TEAM+LEAD)!;&color=0e75b6&background=FFFFFF00" />
 </h1>
+
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
@@ -13,21 +13,24 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Advanced PCB designing** and **fabrication on Carvera**
+
+ 🌱 I’m performing **Debugging and troubleshooting** and **Research and development**
+
+💬 My expertise includes **Firmware development** and **medical-grade devices**
+
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+👨‍💻 I'm also a **Freelancer** specializing in embedded systems and PCB design.
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+</div>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="hiibrarahmad@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/hiibrarahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
