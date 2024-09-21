@@ -6,13 +6,7 @@
   <br/><br/><br/>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/auto-run-output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
+![Snake animation](https://raw.githubusercontent.com/taozhi8833998/taozhi8833998/output/github-contribution-grid-snake-dark.svg)
 
 
 <p align="right">
