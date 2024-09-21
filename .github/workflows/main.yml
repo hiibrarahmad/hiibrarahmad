@@ -4,7 +4,7 @@ on:
   # Automatically triggers every day at midnight
   schedule:
     - cron: "0 0 * * *"  # This runs the workflow every day at midnight (UTC)
-
+ 
 jobs:
   generate:
     permissions:
