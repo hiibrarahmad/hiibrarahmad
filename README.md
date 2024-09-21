@@ -1,3 +1,12 @@
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/<your-username>/<your-repo>/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=hiibrarahmad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
