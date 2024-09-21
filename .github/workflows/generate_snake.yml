@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at midnight every day
+    - cron: "0 0 * * *" # Run at midnight every day
   workflow_dispatch:
 
 jobs:
@@ -10,16 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      # Use the latest version of actions/checkout to avoid deprecation warnings
+      - uses: actions/checkout@v3
+      
+      # Using the correct parameters and action version for the snake generator
+      - uses: Platane/snk/svg-only@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }} # Automatically uses your username
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Push the SVG to the output branch
       - name: Push Snake Grid to Output Branch
-        uses: ad-m/github-push-action@master
+        uses: actions/upload-artifact@v3 # This is more suitable for artifact upload
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          directory: dist
+          name: github-contribution-grid-snake
+          path: dist/github-contribution-grid-snake.svg
