@@ -5,6 +5,7 @@
   <br/><br/><br/>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake-dark.svg)
 
 
 <p align="right">
