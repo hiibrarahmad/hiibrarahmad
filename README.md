@@ -1,16 +1,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/auto-run-output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/auto-run-output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <br/><br/><br/>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/snk/auto-run-output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
 
 
 
