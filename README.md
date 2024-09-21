@@ -1,12 +1,8 @@
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/auto-run-output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/auto-run-output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-  <br/><br/><br/>
-</div>
-
-![Snake animation](https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/manual-run-output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <p align="right">
