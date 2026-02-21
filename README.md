@@ -37,6 +37,46 @@
 
 ---
 
+<!-- ============================================================ -->
+<!--                  🌐 PORTFOLIO HIGHLIGHT BLOCK                 -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<h2>🌐 Live Portfolio</h2>
+
+<a href="https://hiibrarahmad.github.io/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=100&text=⚡%20hiibrarahmad.github.io&fontSize=36&fontColor=00d9ff&animation=fadeIn&desc=PCB%20Design%20·%20EEG%20Systems%20·%20Embedded%20Linux%20·%20Medical%20Hardware&descSize=16&descAlignY=75&descColor=ffffff"/>
+</a>
+
+<br/>
+
+<a href="https://hiibrarahmad.github.io/">
+  <img src="https://img.shields.io/badge/🔗_OPEN_PORTFOLIO-hiibrarahmad.github.io-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0f" height="45"/>
+</a>
+
+<br/><br/>
+
+<table border="0">
+<tr>
+<td align="center">
+  <a href="https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/">
+    <img src="https://img.shields.io/badge/🔬_DermScope_REVIVE-Medical%20PCB%20·%204--Layer%20·%20NXP%20iMX6UL-00d9ff?style=for-the-badge&labelColor=0a0a0f"/>
+  </a>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/🐧_Yocto_Linux_BSP-iMX6UL%20·%20U--Boot%20·%20Linux%204.9-22AA44?style=for-the-badge&labelColor=0a0a0f"/>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/🏭_IoT_Gateway-4G%20LTE%20·%20MQTT%20·%20Industrial-FF8800?style=for-the-badge&labelColor=0a0a0f"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 <!-- About Section -->
 <h2 align="center">
 About Me
