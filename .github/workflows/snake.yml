@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -14,6 +16,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hiibrarahmad
@@ -21,9 +25,49 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00d4ff&color_dots=#0a0e27,#0066ff,#0099ff,#00d4ff,#00ffff
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Publish snake SVGs to output (merge, retry on race)
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Move the just-generated snake SVGs aside
+          mkdir -p /tmp/snake
+          mv dist/github-snake.svg      /tmp/snake/
+          mv dist/github-snake-dark.svg /tmp/snake/
+
+          attempt=0
+          until [ $attempt -ge 5 ]; do
+            attempt=$((attempt+1))
+            echo "::group::push attempt $attempt"
+
+            git fetch origin output || true
+            if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+              git checkout output
+              git reset --hard origin/output
+            else
+              git checkout --orphan output
+              git rm -rf . >/dev/null 2>&1 || true
+            fi
+
+            cp /tmp/snake/github-snake.svg      github-snake.svg
+            cp /tmp/snake/github-snake-dark.svg github-snake-dark.svg
+
+            git add github-snake.svg github-snake-dark.svg
+            if git diff --quiet --cached; then
+              echo "no changes"
+              echo "::endgroup::"
+              break
+            fi
+
+            git commit -m "chore: refresh contribution snake"
+            if git push origin output; then
+              echo "pushed on attempt $attempt"
+              echo "::endgroup::"
+              break
+            fi
+
+            echo "push failed, retrying after backoff"
+            echo "::endgroup::"
+            sleep $((attempt * 5))
+          done

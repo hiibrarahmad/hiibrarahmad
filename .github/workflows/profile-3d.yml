@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - ".github/workflows/profile-3d.yml"
 
 permissions:
   contents: write
@@ -23,32 +25,46 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: hiibrarahmad
 
-      - name: Publish to output branch (merge, don't overwrite)
+      - name: Publish to output branch (merge, retry on race)
         run: |
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stash the freshly generated SVGs.
           mv profile-3d-contrib /tmp/profile-3d-contrib
 
-          # Switch to (or create) the output branch without clobbering existing files there.
-          git fetch origin output || true
-          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
-            git checkout output
-            git pull --rebase origin output || true
-          else
-            git checkout --orphan output
-            git rm -rf . >/dev/null 2>&1 || true
-          fi
+          attempt=0
+          until [ $attempt -ge 5 ]; do
+            attempt=$((attempt+1))
+            echo "::group::push attempt $attempt"
 
-          rm -rf profile-3d-contrib
-          mv /tmp/profile-3d-contrib profile-3d-contrib
+            git fetch origin output || true
+            if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+              git checkout output
+              git reset --hard origin/output
+            else
+              git checkout --orphan output
+              git rm -rf . >/dev/null 2>&1 || true
+            fi
 
-          git add profile-3d-contrib
-          if git diff --quiet --cached; then
-            echo "No changes to commit."
-          else
+            rm -rf profile-3d-contrib
+            cp -r /tmp/profile-3d-contrib profile-3d-contrib
+
+            git add profile-3d-contrib
+            if git diff --quiet --cached; then
+              echo "no changes"
+              echo "::endgroup::"
+              break
+            fi
+
             git commit -m "chore: refresh 3d contribution graph"
-            git push origin output
-          fi
+            if git push origin output; then
+              echo "pushed on attempt $attempt"
+              echo "::endgroup::"
+              break
+            fi
+
+            echo "push failed, retrying after backoff"
+            echo "::endgroup::"
+            sleep $((attempt * 5))
+          done

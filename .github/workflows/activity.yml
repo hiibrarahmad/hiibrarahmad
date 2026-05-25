@@ -20,8 +20,10 @@ jobs:
 
       - name: Inject recent activity into README
         uses: jamesgeorge007/github-activity-readme@master
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: hiibrarahmad
           MAX_LINES: 5
           COMMIT_NAME: github-actions[bot]
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
