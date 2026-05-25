@@ -31,10 +31,11 @@ const ago = (iso) => {
 const renderers = {
   PushEvent: (e) => {
     const commits = e.payload.commits || [];
-    const c       = commits[commits.length - 1];
-    const msg     = c ? c.message.split("\n")[0].slice(0, 70) : `${commits.length} commit(s)`;
+    const count   = e.payload.distinct_size ?? e.payload.size ?? commits.length;
+    const last    = commits[commits.length - 1];
     const branch  = (e.payload.ref || "").replace(/^refs\/heads\//, "");
-    return `⬆️ Pushed \`${commits.length}\` commit${commits.length === 1 ? "" : "s"} to \`${branch}\` in ${repoUrl(e.repo.name)} — *${msg}*`;
+    const tail    = last ? ` — *${last.message.split("\n")[0].slice(0, 70)}*` : "";
+    return `⬆️ Pushed \`${count}\` commit${count === 1 ? "" : "s"} to \`${branch}\` in ${repoUrl(e.repo.name)}${tail}`;
   },
   CreateEvent: (e) => {
     const t = e.payload.ref_type;
@@ -91,10 +92,9 @@ for (const e of events) {
   const r = renderers[e.type];
   if (!r) continue;
   const line = r(e);
-  // dedupe near-identical lines (e.g. multiple pushes to same branch in a minute)
-  const key = `${e.type}:${e.repo.name}:${e.payload?.ref || ""}:${(e.payload?.commits||[]).slice(-1)[0]?.message || ""}`;
-  if (seen.has(key)) continue;
-  seen.add(key);
+  // dedupe by rendered line (collapses identical-looking pushes to same branch)
+  if (seen.has(line)) continue;
+  seen.add(line);
   lines.push(`- ${line} · _${ago(e.created_at)}_`);
 }
 
