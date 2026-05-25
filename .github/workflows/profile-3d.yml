@@ -25,7 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: hiibrarahmad
 
-      - name: Publish to output branch (merge, retry on race)
+      - name: Publish to output branch (additive, retry on race)
         run: |
           set -e
           git config user.name  "github-actions[bot]"
@@ -38,10 +38,10 @@ jobs:
             attempt=$((attempt+1))
             echo "::group::push attempt $attempt"
 
-            git fetch origin output || true
+            git fetch origin output
+
             if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
-              git checkout output
-              git reset --hard origin/output
+              git checkout -B output origin/output
             else
               git checkout --orphan output
               git rm -rf . >/dev/null 2>&1 || true

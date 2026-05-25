@@ -25,13 +25,12 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00d4ff&color_dots=#0a0e27,#0066ff,#0099ff,#00d4ff,#00ffff
 
-      - name: Publish snake SVGs to output (merge, retry on race)
+      - name: Publish snake SVGs to output (additive, retry on race)
         run: |
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Move the just-generated snake SVGs aside
           mkdir -p /tmp/snake
           mv dist/github-snake.svg      /tmp/snake/
           mv dist/github-snake-dark.svg /tmp/snake/
@@ -41,10 +40,12 @@ jobs:
             attempt=$((attempt+1))
             echo "::group::push attempt $attempt"
 
-            git fetch origin output || true
+            git fetch origin output
+
+            # Switch to a worktree on the remote output ref WITHOUT
+            # destroying any sibling files that belong to other publishers.
             if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
-              git checkout output
-              git reset --hard origin/output
+              git checkout -B output origin/output
             else
               git checkout --orphan output
               git rm -rf . >/dev/null 2>&1 || true
