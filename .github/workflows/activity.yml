@@ -28,3 +28,6 @@ jobs:
           COMMIT_NAME: github-actions[bot]
           COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
           COMMIT_MSG: "chore(readme): refresh recent activity"
+          # Broaden filter: include push, create, watch, fork, public events
+          # (default excludes everything except PR/Issue/Comment/Release)
+          FILTER_EVENTS: ""
