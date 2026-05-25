@@ -198,11 +198,14 @@ namespace ibrar {
 > ⚙️ Auto-refreshed hourly via GitHub Actions — your last 5 public events, live.
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `0` commits to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) · _11s ago_
-- ⬆️ Pushed `0` commits to `output` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) · _7m ago_
-- 🌱 Created branch `main` in [hiibrarahmad/v2.0-vs-2.5.github.io](https://github.com/hiibrarahmad/v2.0-vs-2.5.github.io) · _2026-05-15_
-- ⬆️ Pushed `0` commits to `main` in [hiibrarahmad/PRJ-2026-EEG-BUD-0039-custom.github.io](https://github.com/hiibrarahmad/PRJ-2026-EEG-BUD-0039-custom.github.io) · _2026-05-06_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-2026-EEG-BUD-0039-custom.github.io](https://github.com/hiibrarahmad/PRJ-2026-EEG-BUD-0039-custom.github.io) · _2026-05-06_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(activity): fetch real commit count + message via Compare API when* · _12s ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(activity): use distinct_size for push count, dedupe by rendered li* · _2m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(activity): custom Node script handling all event types* · _3m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(activity): broaden FILTER_EVENTS so push/create/watch events surfa* · _6m ago_
+- ⬆️ Pushed `1` commit to `output` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(assets): publish hero banner SVGs* · _9m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(workflows): use checkout -B from origin/output instead of reset --* · _11m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *chore: remove stray metrics SVGs from main (now live on output branch)* · _15m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(workflows): metrics path, activity token, race-safe publishers* · _18m ago_
 <!--END_SECTION:activity-->
 
 ---
