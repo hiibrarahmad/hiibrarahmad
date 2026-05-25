@@ -28,15 +28,40 @@ const ago = (iso) => {
   return new Date(iso).toISOString().slice(0, 10);
 };
 
+async function describePush(e) {
+  const branch = (e.payload.ref || "").replace(/^refs\/heads\//, "");
+  const before = e.payload.before;
+  const head   = e.payload.head;
+  let count = e.payload.distinct_size ?? e.payload.size ?? (e.payload.commits || []).length;
+  let lastMsg = (e.payload.commits || []).slice(-1)[0]?.message;
+
+  // The events API often omits commit details. Fall back to the
+  // Compare API which returns the real commit count + messages.
+  if ((!count || !lastMsg) && before && head && before !== "0000000000000000000000000000000000000000") {
+    try {
+      const r = await fetch(`https://api.github.com/repos/${e.repo.name}/compare/${before}...${head}`, {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+          "User-Agent": "github-activity-updater",
+          Accept: "application/vnd.github+json",
+        },
+      });
+      if (r.ok) {
+        const cmp = await r.json();
+        if (typeof cmp.ahead_by === "number") count = cmp.ahead_by;
+        const last = (cmp.commits || []).slice(-1)[0];
+        if (last) lastMsg = last.commit?.message || lastMsg;
+      }
+    } catch { /* swallow */ }
+  }
+
+  const tail = lastMsg ? ` — *${lastMsg.split("\n")[0].slice(0, 70)}*` : "";
+  const n = count || 1; // fall back to "1" rather than "0" if we still don't know
+  return `⬆️ Pushed \`${n}\` commit${n === 1 ? "" : "s"} to \`${branch}\` in ${repoUrl(e.repo.name)}${tail}`;
+}
+
 const renderers = {
-  PushEvent: (e) => {
-    const commits = e.payload.commits || [];
-    const count   = e.payload.distinct_size ?? e.payload.size ?? commits.length;
-    const last    = commits[commits.length - 1];
-    const branch  = (e.payload.ref || "").replace(/^refs\/heads\//, "");
-    const tail    = last ? ` — *${last.message.split("\n")[0].slice(0, 70)}*` : "";
-    return `⬆️ Pushed \`${count}\` commit${count === 1 ? "" : "s"} to \`${branch}\` in ${repoUrl(e.repo.name)}${tail}`;
-  },
+  PushEvent: describePush,
   CreateEvent: (e) => {
     const t = e.payload.ref_type;
     if (t === "repository") return `✨ Created repo ${repoUrl(e.repo.name)}`;
@@ -91,7 +116,7 @@ for (const e of events) {
   if (lines.length >= MAX_LINES) break;
   const r = renderers[e.type];
   if (!r) continue;
-  const line = r(e);
+  const line = await r(e);
   // dedupe by rendered line (collapses identical-looking pushes to same branch)
   if (seen.has(line)) continue;
   seen.add(line);
