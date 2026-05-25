@@ -17,18 +17,38 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Generate 3D contribution SVGs
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: hiibrarahmad
 
-      - name: Commit & push
+      - name: Publish to output branch (merge, don't overwrite)
         run: |
+          set -e
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B output
-          mkdir -p profile-3d-contrib
-          cp -r profile-3d-contrib/* profile-3d-contrib/ 2>/dev/null || true
+
+          # Stash the freshly generated SVGs.
+          mv profile-3d-contrib /tmp/profile-3d-contrib
+
+          # Switch to (or create) the output branch without clobbering existing files there.
+          git fetch origin output || true
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git checkout output
+            git pull --rebase origin output || true
+          else
+            git checkout --orphan output
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
+
+          rm -rf profile-3d-contrib
+          mv /tmp/profile-3d-contrib profile-3d-contrib
+
           git add profile-3d-contrib
-          git diff --quiet --cached || git commit -m "chore: refresh 3d contribution graph"
-          git push -f origin output
+          if git diff --quiet --cached; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh 3d contribution graph"
+            git push origin output
+          fi
