@@ -54,14 +54,7 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `output` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(output): new editorial hero banners, drop unused snake + metrics * · _2026-05-25_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *redesign: editorial banner, dense bio, real case studies, one contribu* · _2026-05-25_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(metrics): drop deprecated achievements plugin, swap in topics + st* · _2026-05-25_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(activity): fetch real commit count + message via Compare API when* · _2026-05-25_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(activity): use distinct_size for push count, dedupe by rendered li* · _2026-05-25_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(activity): custom Node script handling all event types* · _2026-05-25_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *fix(activity): broaden FILTER_EVENTS so push/create/watch events surfa* · _2026-05-25_
-- ⬆️ Pushed `1` commit to `output` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(assets): publish hero banner SVGs* · _2026-05-25_
+- _(no recent public activity yet — check back soon!)_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
