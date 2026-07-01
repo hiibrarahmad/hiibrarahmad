@@ -54,13 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Enable chargestore on PP00, disable UMIDIGI bit-bang* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *NIURA board: debug UART to PB05, debug enable, BT name fix, rebuild ar* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *TWS: remove PC5 pin dependency, use fixed MACs from board config for L* · _3h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) · _4h ago_
-- 🚀 Published release [v1.1.0](https://github.com/hiibrarahmad/neuro11-firmware/releases/tag/v1.1.0) in [hiibrarahmad/neuro11-firmware](https://github.com/hiibrarahmad/neuro11-firmware) · _1d ago_
-- 🚀 Published release [v1.0.0](https://github.com/hiibrarahmad/neuro11-firmware/releases/tag/v1.0.0) in [hiibrarahmad/neuro11-firmware](https://github.com/hiibrarahmad/neuro11-firmware) · _1d ago_
-- 🌱 Created branch `master` in [hiibrarahmad/neuro11-firmware](https://github.com/hiibrarahmad/neuro11-firmware) · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Fix auto-sleep and PC3 initial state for PB1 touch feedback* · _12m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Remove debug UART changes — PB05 debug pin caused IC boot failure* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Revert chargestore enable — caused bootloop on BR28* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Enable chargestore on PP00, disable UMIDIGI bit-bang* · _2h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *NIURA board: debug UART to PB05, debug enable, BT name fix, rebuild ar* · _3h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *TWS: remove PC5 pin dependency, use fixed MACs from board config for L* · _5h ago_
+- 🌱 Created branch `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) · _6h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
