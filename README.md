@@ -54,10 +54,10 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: maximize CH1 sensitivity for extreme detection* · _2h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: fix inverted veto logic, prevent LP sleep on false RAISING* · _7h ago_
-- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: calibration-free IIR-drift veto for PC3 reliability* · _7h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Fix PB1 touch: debounce RAISING so PC3 doesn't glitch HIGH* · _8h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: maximize CH1 sensitivity for extreme detection* · _4h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: fix inverted veto logic, prevent LP sleep on false RAISING* · _9h ago_
+- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: calibration-free IIR-drift veto for PC3 reliability* · _9h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Fix PB1 touch: debounce RAISING so PC3 doesn't glitch HIGH* · _10h ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Fix auto-sleep and PC3 initial state for PB1 touch feedback* · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Remove debug UART changes — PB05 debug pin caused IC boot failure* · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) · _2d ago_
