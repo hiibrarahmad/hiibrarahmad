@@ -54,8 +54,8 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Replace MindTune branding with hiibrarahmad* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Replace MindTune branding with hiibrarahmad* · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _2d ago_
 - 🌱 Created branch `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: maximize CH1 sensitivity for extreme detection* · _2026-07-03_
