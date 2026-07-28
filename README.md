@@ -54,6 +54,7 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Delete DOC FIRST SDK directory* · _51m ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-07-15_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Replace MindTune branding with hiibrarahmad* · _2026-07-15_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _2026-07-15_
@@ -61,7 +62,6 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: maximize CH1 sensitivity for extreme detection* · _2026-07-03_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: fix inverted veto logic, prevent LP sleep on false RAISING* · _2026-07-03_
 - ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *PB1 touch: calibration-free IIR-drift veto for PC3 reliability* · _2026-07-03_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Fix PB1 touch: debounce RAISING so PC3 doesn't glitch HIGH* · _2026-07-03_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
