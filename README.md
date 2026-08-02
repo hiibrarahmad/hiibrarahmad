@@ -54,6 +54,7 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
+- 🌱 Created branch `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) · _37m ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Delete DOC FIRST SDK directory* · _5d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-07-15_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Replace MindTune branding with hiibrarahmad* · _2026-07-15_
