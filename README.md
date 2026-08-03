@@ -54,8 +54,8 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Surface a clear message when Logitech G HUB blocks WebHID access* · _22h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Add real HID++ support for wired Logitech gaming mice (G403, etc.)* · _22h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Surface a clear message when Logitech G HUB blocks WebHID access* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Add real HID++ support for wired Logitech gaming mice (G403, etc.)* · _1d ago_
 - 🌱 Created branch `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Delete DOC FIRST SDK directory* · _6d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-07-15_
