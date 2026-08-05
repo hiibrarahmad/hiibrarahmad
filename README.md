@@ -54,9 +54,9 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🌱 Created branch `master` in [hiibrarahmad/neuro1111](https://github.com/hiibrarahmad/neuro1111) · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Surface a clear message when Logitech G HUB blocks WebHID access* · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Add real HID++ support for wired Logitech gaming mice (G403, etc.)* · _2d ago_
+- 🌱 Created branch `master` in [hiibrarahmad/neuro1111](https://github.com/hiibrarahmad/neuro1111) · _2d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Surface a clear message when Logitech G HUB blocks WebHID access* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Add real HID++ support for wired Logitech gaming mice (G403, etc.)* · _3d ago_
 - 🌱 Created branch `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) · _3d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/JL701N_LUNIX](https://github.com/hiibrarahmad/JL701N_LUNIX) — *Delete DOC FIRST SDK directory* · _2026-07-28_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-07-15_
