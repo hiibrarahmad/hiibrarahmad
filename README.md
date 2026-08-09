@@ -55,8 +55,8 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 
 <!--START_SECTION:activity-->
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix invisible cursor on admin dashboard and remove plaintext passcode* · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix dead Unsplash image link on Precision Power Management card* · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Replace static portfolio with new hardware-focused React/Vite site* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix dead Unsplash image link on Precision Power Management card* · _2d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Replace static portfolio with new hardware-focused React/Vite site* · _2d ago_
 - 🌱 Created branch `master` in [hiibrarahmad/neuro1111](https://github.com/hiibrarahmad/neuro1111) · _5d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Surface a clear message when Logitech G HUB blocks WebHID access* · _6d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Add real HID++ support for wired Logitech gaming mice (G403, etc.)* · _6d ago_
