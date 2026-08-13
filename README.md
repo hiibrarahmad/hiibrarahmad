@@ -54,14 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add real STEP-model 3D viewer support (occt-import-js); add ATX PSU* · _1m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io) — *Fix year references after rename (2026->2024), add real Charger STEP m* · _6m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io) — *Correct project identity: ATX PSU Tester, not 'RMT' (RMT is a client/c* · _13m ago_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io) · _15m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update Smart Watch links after repo rename and restructure* · _25m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io) — *Restructure showcase, flatten layout, drop unused Step File viewer* · _27m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix real 3D model rendering off-screen due to transform order bug* · _33m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add real 3D model viewer support; add H-Bridge project (PRJ-PCB-1004)* · _49m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Level Converter (PRJ-PCB-1008) project entry with real STEP model* · _59s ago_
+- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1008-2024-LevelConverter.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1008-2024-LevelConverter.github.io) · _8m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix banner image cropping and add secondary banner support for multi-b* · _10m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add AI Bud (PRJ-PCB-1007) TWS earbud project entry* · _29m ago_
+- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1007-2026-AIBud.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1007-2026-AIBud.github.io) · _30m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io) — *Fix designer name typo (Hibrar -> Ibrar Ahmad)* · _34m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io) — *Fix designer name typo (Hibrar -> Ibrar Ahmad)* · _34m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io) — *Fix designer name typo (Hibrar -> Ibrar Ahmad)* · _34m ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
