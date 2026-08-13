@@ -54,14 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix invisible cursor on admin dashboard and remove plaintext passcode* · _6d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix dead Unsplash image link on Precision Power Management card* · _6d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Replace static portfolio with new hardware-focused React/Vite site* · _6d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Surface a clear message when Logitech G HUB blocks WebHID access* · _2026-08-02_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) — *Add real HID++ support for wired Logitech gaming mice (G403, etc.)* · _2026-08-02_
-- 🌱 Created branch `main` in [hiibrarahmad/IARmouse](https://github.com/hiibrarahmad/IARmouse) · _2026-08-02_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-07-15_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Replace MindTune branding with hiibrarahmad* · _2026-07-15_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io) — *Restructure showcase: drop menu/step-viewer, promote Main Board to roo* · _40s ago_
+- 🌍 Made [hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io) public · _2025-07-11_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update Arduino Uno V1 links after rename, reorder projects series-wise* · _13m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io) — *Fix broken links after repo rename to PRJ-PCB-1003-2026-ArduinoUno-V1.* · _14m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io) — *Update interactive BOM viewer title to match renamed repo* · _24m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io) — *Update interactive BOM viewer title to match renamed repo* · _24m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update Ultrasound Doppler links after repo rename* · _29m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io) — *Fix broken links after repo rename to PRJ-PCB-1002-2024-UltrasoundDopp* · _30m ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
