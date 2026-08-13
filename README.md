@@ -54,14 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io) — *Restructure showcase: drop menu/step-viewer, promote Main Board to roo* · _40s ago_
-- 🌍 Made [hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1004-2024-HBridge.github.io) public · _2025-07-11_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update Arduino Uno V1 links after rename, reorder projects series-wise* · _13m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1003-2026-ArduinoUno-V1.github.io) — *Fix broken links after repo rename to PRJ-PCB-1003-2026-ArduinoUno-V1.* · _14m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io) — *Update interactive BOM viewer title to match renamed repo* · _24m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1001-2024-Dermscope-Revive.github.io) — *Update interactive BOM viewer title to match renamed repo* · _24m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update Ultrasound Doppler links after repo rename* · _29m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1002-2024-UltrasoundDoppler.github.io) — *Fix broken links after repo rename to PRJ-PCB-1002-2024-UltrasoundDopp* · _30m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add real STEP-model 3D viewer support (occt-import-js); add ATX PSU* · _1m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io) — *Fix year references after rename (2026->2024), add real Charger STEP m* · _6m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io) — *Correct project identity: ATX PSU Tester, not 'RMT' (RMT is a client/c* · _13m ago_
+- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io) · _15m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update Smart Watch links after repo rename and restructure* · _25m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1005-2024-SmartWatch.github.io) — *Restructure showcase, flatten layout, drop unused Step File viewer* · _27m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix real 3D model rendering off-screen due to transform order bug* · _33m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add real 3D model viewer support; add H-Bridge project (PRJ-PCB-1004)* · _49m ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
