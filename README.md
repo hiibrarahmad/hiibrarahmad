@@ -54,14 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🌍 Made [hiibrarahmad/PRJ-FW-4000-2019-ESP32-BTAudioStreamTest](https://github.com/hiibrarahmad/PRJ-FW-4000-2019-ESP32-BTAudioStreamTest) public · _2025-04-08_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Brighten project banners and STEP-model fallback material* · _4m ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Level Converter (PRJ-PCB-1008) project entry with real STEP model* · _7h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1008-2024-LevelConverter.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1008-2024-LevelConverter.github.io) · _7h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix banner image cropping and add secondary banner support for multi-b* · _7h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add AI Bud (PRJ-PCB-1007) TWS earbud project entry* · _8h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1007-2026-AIBud.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1007-2026-AIBud.github.io) · _8h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1006-2023-ATXPSUTester.github.io) — *Fix designer name typo (Hibrar -> Ibrar Ahmad)* · _8h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix broken category filters, add real counts, add favicon and better t* · _7m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Replace AI Studio scaffold README with a real project README* · _12m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add sub-project grid picker, firmware-appropriate modal, category road* · _15m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add COMSATS AVR Microprocessor Labs (PRJ-FW-4002) — one banner, nine p* · _49m ago_
+- 🌱 Created branch `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) · _52m ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Arduino AVR Alarm Clock (PRJ-FW-4001) — real Proteus schematic* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock](https://github.com/hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock) — *Add split MCU/LCD schematic halves for portfolio banner* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock](https://github.com/hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock) — *Add copyright header, real Proteus screenshot, cleanup, and README rew* · _1h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
