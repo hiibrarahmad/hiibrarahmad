@@ -54,14 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) — *Rescue accesspins.c — the keypad's pin-access layer* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) — *Rescue original Proteus/Atmel project files before retiring source rep* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Fix broken category filters, add real counts, add favicon and better t* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Replace AI Studio scaffold README with a real project README* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add sub-project grid picker, firmware-appropriate modal, category road* · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add COMSATS AVR Microprocessor Labs (PRJ-FW-4002) — one banner, nine p* · _3d ago_
 - 🌱 Created branch `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock](https://github.com/hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock) · _3d ago_
-- 🌍 Made [hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock](https://github.com/hiibrarahmad/PRJ-FW-4001-2020-ArduinoAVRAlarmClock) public · _2021-12-10_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4000-2019-ESP32-BTAudioStreamTest](https://github.com/hiibrarahmad/PRJ-FW-4000-2019-ESP32-BTAudioStreamTest) · _3d ago_
-- 🌍 Made [hiibrarahmad/PRJ-FW-4000-2019-ESP32-BTAudioStreamTest](https://github.com/hiibrarahmad/PRJ-FW-4000-2019-ESP32-BTAudioStreamTest) public · _2025-04-08_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-PCB-1008-2024-LevelConverter.github.io](https://github.com/hiibrarahmad/PRJ-PCB-1008-2024-LevelConverter.github.io) · _3d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Arduino AVR Alarm Clock (PRJ-FW-4001) — real Proteus schematic* · _3d ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
