@@ -54,14 +54,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) — *Add I2S audio-over-WebSockets client prototype (from AUDIOCILENT)* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add I2S audio-over-WebSockets server prototype (from AUDIOSERVER)* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Smart Video Doorbell (PRJ-FW-4003) — FYP, two-module system* · _1h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add system architecture diagram and surface the real home module schem* · _1h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) · _1h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add STA-mode scaffold (from STAmode repo) as a design-history record* · _1h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) — *Add I2S audio-over-WebSockets client prototype (from AUDIOCILENT)* · _2h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add I2S audio-over-WebSockets server prototype (from AUDIOSERVER)* · _2h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Smart Video Doorbell (PRJ-FW-4003) — FYP, two-module system* · _2h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add system architecture diagram and surface the real home module schem* · _2h ago_
+- 🌱 Created branch `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) · _3h ago_
+- 🌱 Created branch `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) · _3h ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) — *Rescue accesspins.c — the keypad's pin-access layer* · _4d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs](https://github.com/hiibrarahmad/PRJ-FW-4002-2021-COMSATS-AVRMicroprocessorLabs) — *Rescue original Proteus/Atmel project files before retiring source rep* · _4d ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
