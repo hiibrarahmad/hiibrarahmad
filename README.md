@@ -54,10 +54,10 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _23h ago_
-- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _1d ago_
+- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update contact email to hiibrarahmad@gmail.com* · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add STA-mode scaffold (from STAmode repo) as a design-history record* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add STA-mode scaffold (from STAmode repo) as a design-history record* · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) — *Add I2S audio-over-WebSockets client prototype (from AUDIOCILENT)* · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add I2S audio-over-WebSockets server prototype (from AUDIOSERVER)* · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Add Smart Video Doorbell (PRJ-FW-4003) — FYP, two-module system* · _2d ago_
