@@ -13,6 +13,16 @@ Based in **Islamabad, Pakistan**. Studying at **COMSATS University**. Available 
 
 ---
 
+## `iarfetch`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/iarfetch-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/iarfetch-light.svg">
+  <img alt="iarfetch — ASCII portrait of Ibrar Ahmad rendered in a terminal" src="https://raw.githubusercontent.com/hiibrarahmad/hiibrarahmad/output/assets/iarfetch-dark.svg" width="100%">
+</picture>
+
+---
+
 ## Selected work
 
 ### [DermScope REVIVE](https://github.com/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io) — handheld dermatoscope carrier PCB
