@@ -66,8 +66,8 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 <!--START_SECTION:activity-->
 - ⬆️ Pushed `1` commit to `output` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *chore(assets): publish iarfetch ASCII portrait terminal* · _3d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(readme): add animated iarfetch ASCII portrait terminal* · _3d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _6d ago_
-- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _6d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _2026-08-19_
+- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-08-19_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update contact email to hiibrarahmad@gmail.com* · _2026-08-19_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add STA-mode scaffold (from STAmode repo) as a design-history record* · _2026-08-18_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) — *Add I2S audio-over-WebSockets client prototype (from AUDIOCILENT)* · _2026-08-18_
