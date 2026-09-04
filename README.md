@@ -70,7 +70,7 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 - ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-08-19_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update contact email to hiibrarahmad@gmail.com* · _2026-08-19_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add STA-mode scaffold (from STAmode repo) as a design-history record* · _2026-08-18_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) · _2026-08-18_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-CamModule) — *Add I2S audio-over-WebSockets client prototype (from AUDIOCILENT)* · _2026-08-18_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule](https://github.com/hiibrarahmad/PRJ-FW-4003-2023-SmartDoorbell-HomeModule) — *Add I2S audio-over-WebSockets server prototype (from AUDIOSERVER)* · _2026-08-18_
 <!--END_SECTION:activity-->
 
