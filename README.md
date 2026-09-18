@@ -66,9 +66,6 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 <!--START_SECTION:activity-->
 - ⬆️ Pushed `1` commit to `output` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *chore(assets): publish iarfetch ASCII portrait terminal* · _2026-08-23_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad](https://github.com/hiibrarahmad/hiibrarahmad) — *feat(readme): add animated iarfetch ASCII portrait terminal* · _2026-08-23_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) · _2026-08-19_
-- ⬆️ Pushed `2` commits to `main` in [hiibrarahmad/QAR](https://github.com/hiibrarahmad/QAR) — *Improve long-range tracking reliability* · _2026-08-19_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/hiibrarahmad.github.io](https://github.com/hiibrarahmad/hiibrarahmad.github.io) — *Update contact email to hiibrarahmad@gmail.com* · _2026-08-19_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
