@@ -64,11 +64,11 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- 🚀 Published release [v1.0.0](https://github.com/hiibrarahmad/syscura/releases/tag/v1.0.0) in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _21h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 1.0.0: updates, file checks, spec lookup* · _21h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Process watch, startup check, file actions, remembered verdicts* · _21h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *CI: put the agent next to the app before linting it* · _22h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 0.1.0-beta.3: Setup installer, tray icon, auto-start* · _22h ago_
+- 🚀 Published release [v1.0.0](https://github.com/hiibrarahmad/syscura/releases/tag/v1.0.0) in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 1.0.0: updates, file checks, spec lookup* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Process watch, startup check, file actions, remembered verdicts* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *CI: put the agent next to the app before linting it* · _1d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 0.1.0-beta.3: Setup installer, tray icon, auto-start* · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 0.1.0-beta.2: Verdict design, free AI help, honest fixes, back* · _1d ago_
 - 🌱 Created branch `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _2d ago_
 - 🚀 Published release [v0.1.0-beta.2](https://github.com/hiibrarahmad/syscura/releases/tag/v0.1.0-beta.2) in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _1d ago_
