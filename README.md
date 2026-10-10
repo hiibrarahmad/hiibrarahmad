@@ -64,14 +64,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) — *Fix startup order so courses show while details are still downloading* · _23h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) · _23h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) — *Show only programs you can apply to; add school emails, fee-exemption * · _23h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *README: new screenshots (Security, Problems) from demo data; demo vide* · _21h ago_
-- 🌍 Made [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) public · _23h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) — *Fix build for listings without contact info; publish all 17,412 course* · _23h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) — *Update visa proof of funds to €877.50/month (from 1 Aug 2026), living * · _23h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *Explain missing compile server instead of a JSON parse error* · _15h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *Show common boards when the compile server is offline; cache-bust Page* · _15h ago_
+- 🗑️ Deleted branch `ide-build/mv2r3p5vbl9lyb` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _1h ago_
+- 🗑️ Deleted branch `ide-build/mv2qwx8hpxav` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _1h ago_
+- 🗑️ Deleted branch `ide-build/mv2qwx7t6y9e` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _1h ago_
+- 🗑️ Deleted branch `ide-build/mv2pd7nqo3duyl` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _2h ago_
+- 🌱 Created branch `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _15h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *AVR flasher: flush stale sync replies, retry pages after a dropped byt* · _2h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
