@@ -64,14 +64,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *README: new screenshots (Security, Problems) from demo data; demo vide* · _15h ago_
-- 🌍 Made [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) public · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) — *Fix build for listings without contact info; publish all 17,412 course* · _17h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) — *Update visa proof of funds to €877.50/month (from 1 Aug 2026), living * · _17h ago_
-- 🌱 Created branch `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) · _17h ago_
-- 🚀 Published release [v1.0.0](https://github.com/hiibrarahmad/syscura/releases/tag/v1.0.0) in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _4d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 1.0.0: updates, file checks, spec lookup* · _4d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Process watch, startup check, file actions, remembered verdicts* · _4d ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) — *Fix startup order so courses show while details are still downloading* · _23h ago_
+- 🌱 Created branch `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) — *Show only programs you can apply to; add school emails, fee-exemption * · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *README: new screenshots (Security, Problems) from demo data; demo vide* · _21h ago_
+- 🌍 Made [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) public · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-full-catalogue](https://github.com/hiibrarahmad/france-full-catalogue) — *Fix build for listings without contact info; publish all 17,412 course* · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) — *Update visa proof of funds to €877.50/month (from 1 Aug 2026), living * · _23h ago_
+- 🌱 Created branch `main` in [hiibrarahmad/france-masters-dashboard](https://github.com/hiibrarahmad/france-masters-dashboard) · _23h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
