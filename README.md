@@ -67,7 +67,7 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Release workflow: fix PowerShell quoting in release notes extraction* · _2d ago_
 - 🗑️ Deleted tag `v1.1.0` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _2d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 1.1.0: pipe security, signed updates, Security page, ARM64* · _2d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *New workbench UI, serial debugger, plotter, crash decoder, boards and * · _23h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *New workbench UI, serial debugger, plotter, crash decoder, boards and * · _1d ago_
 - 🗑️ Deleted branch `ide-build/mv2p5uy1wt9g6w` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _1d ago_
 - 🗑️ Deleted branch `ide-build/test0002` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *README: point to Hugging Face deployment* · _1d ago_
