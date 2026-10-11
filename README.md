@@ -64,14 +64,14 @@ Pin-for-pin UNO-compatible board on 2-layer FR4. Modernized with **USB Type-C**,
 ## Recent activity
 
 <!--START_SECTION:activity-->
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Release workflow: fix PowerShell quoting in release notes extraction* · _1d ago_
 - 🗑️ Deleted tag `v1.1.0` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) · _1d ago_
 - ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/syscura](https://github.com/hiibrarahmad/syscura) — *Syscura 1.1.0: pipe security, signed updates, Security page, ARM64* · _1d ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *New workbench UI, serial debugger, plotter, crash decoder, boards and * · _11h ago_
-- 🗑️ Deleted branch `ide-build/mv2p5uy1wt9g6w` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _12h ago_
-- 🗑️ Deleted branch `ide-build/test0002` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _12h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *README: point to Hugging Face deployment* · _13h ago_
-- 🗑️ Deleted branch `ide-build/mv2pcicwavzlrc` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _12h ago_
-- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *Compile on GitHub Actions from the IDE; setup dialog; libraries.txt su* · _12h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *New workbench UI, serial debugger, plotter, crash decoder, boards and * · _18h ago_
+- 🗑️ Deleted branch `ide-build/mv2p5uy1wt9g6w` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _19h ago_
+- 🗑️ Deleted branch `ide-build/test0002` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _19h ago_
+- ⬆️ Pushed `1` commit to `main` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) — *README: point to Hugging Face deployment* · _20h ago_
+- 🗑️ Deleted branch `ide-build/mv2pcicwavzlrc` in [hiibrarahmad/webide](https://github.com/hiibrarahmad/webide) · _19h ago_
 <!--END_SECTION:activity-->
 
 <sub>Refreshed hourly from the GitHub Events API.</sub>
